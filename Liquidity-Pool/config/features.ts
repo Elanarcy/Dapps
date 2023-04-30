@@ -19,4 +19,9 @@ export const products: FeatureProps[] = [
 ];
 
 export const dependencies: FeatureProps[] = [
+  {
+    title: 'ethereum Swap',
+    text: 'Swap use ethereum token via uniswap route',
+    href: 'https://3002-syahvril-dapps-u8j2k3h0th5.ws-us96b.gitpod.io/'
+  },
 ];
